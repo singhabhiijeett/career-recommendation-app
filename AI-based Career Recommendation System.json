@@ -1,0 +1,2002 @@
+[
+ {
+   "CandidateID": 1,
+   "Name": "John Doe",
+   "Age": 28,
+   "Education": "Bachelor's",
+   "Skills": "Python;Data Analysis;Machine Learning",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Data Scientist",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 2,
+   "Name": "Jane Smith",
+   "Age": 32,
+   "Education": "Master's",
+   "Skills": "Java;System Design;Cloud Computing",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Software Engineer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 3,
+   "Name": "Bob Johnson",
+   "Age": 24,
+   "Education": "Bachelor's",
+   "Skills": "Graphic Design;UI/UX;Adobe Creative Suite",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 4,
+   "Name": "Emily Davis",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "Python;Deep Learning;Statistics",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "AI Researcher",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 5,
+   "Name": "Michael Brown",
+   "Age": 30,
+   "Education": "Master's",
+   "Skills": "Project Management;Communication;Agile",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Project Manager",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 6,
+   "Name": "Sarah Wilson",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "C++;Embedded Systems;IoT",
+   "Interests": "Electronics;Automation",
+   "Recommended_Career": "Embedded Systems Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 7,
+   "Name": "David Lee",
+   "Age": 35,
+   "Education": "Master's",
+   "Skills": "SQL;Data Warehousing;ETL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 8,
+   "Name": "Laura Martinez",
+   "Age": 29,
+   "Education": "Bachelor's",
+   "Skills": "Content Writing;SEO;Social Media",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 9,
+   "Name": "Kevin White",
+   "Age": 31,
+   "Education": "Bachelor's",
+   "Skills": "Python;Natural Language Processing;Machine Learning",
+   "Interests": "Linguistics;Technology",
+   "Recommended_Career": "NLP Engineer",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 10,
+   "Name": "Karen Thompson",
+   "Age": 33,
+   "Education": "Master's",
+   "Skills": "Financial Analysis;Excel;Econometrics",
+   "Interests": "Finance;Data Analysis",
+   "Recommended_Career": "Financial Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 11,
+   "Name": "Richard Anderson",
+   "Age": 40,
+   "Education": "PhD",
+   "Skills": "Research;Statistical Analysis;Python",
+   "Interests": "Academia;Biotech",
+   "Recommended_Career": "Research Scientist",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 12,
+   "Name": "Jessica Taylor",
+   "Age": 22,
+   "Education": "Bachelor's",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 13,
+   "Name": "Daniel Moore",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "Java;Algorithms;Data Structures",
+   "Interests": "Software Engineering;Coding",
+   "Recommended_Career": "Software Developer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 14,
+   "Name": "Olivia Jackson",
+   "Age": 28,
+   "Education": "Master's",
+   "Skills": "Data Visualization;Python;R",
+   "Interests": "Data Analysis;Statistics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 15,
+   "Name": "William Martin",
+   "Age": 34,
+   "Education": "Master's",
+   "Skills": "Machine Learning;Big Data;Python",
+   "Interests": "Technology;Innovation",
+   "Recommended_Career": "Machine Learning Engineer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 16,
+   "Name": "Sophia Lee",
+   "Age": 30,
+   "Education": "Bachelor's",
+   "Skills": "Digital Marketing;Content Creation;SEO",
+   "Interests": "Marketing;Social Media",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 17,
+   "Name": "James Perez",
+   "Age": 29,
+   "Education": "Bachelor's",
+   "Skills": "Python;Data Mining;Statistics",
+   "Interests": "Data Science;Finance",
+   "Recommended_Career": "Data Scientist",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 18,
+   "Name": "Ava Thompson",
+   "Age": 25,
+   "Education": "Bachelor's",
+   "Skills": "C#;.NET;Software Design",
+   "Interests": "Technology;Gaming",
+   "Recommended_Career": "Software Developer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 19,
+   "Name": "Henry Gonzalez",
+   "Age": 31,
+   "Education": "Master's",
+   "Skills": "Project Management;Risk Analysis;Negotiation",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Project Manager",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 20,
+   "Name": "Mia Robinson",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "User Research;UX Design;Prototyping",
+   "Interests": "Design;Technology",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 21,
+   "Name": "Ethan Clark",
+   "Age": 24,
+   "Education": "Bachelor's",
+   "Skills": "Python;Data Analysis;SQL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 22,
+   "Name": "Isabella Rodriguez",
+   "Age": 28,
+   "Education": "Master's",
+   "Skills": "Marketing Strategy;Digital Marketing;CRM",
+   "Interests": "Marketing;Business",
+   "Recommended_Career": "Marketing Manager",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 23,
+   "Name": "Liam Lewis",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "JavaScript;React;Node.js",
+   "Interests": "Web Development;Technology",
+   "Recommended_Career": "Full Stack Developer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 24,
+   "Name": "Chloe Walker",
+   "Age": 32,
+   "Education": "Master's",
+   "Skills": "Data Science;Machine Learning;Python",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "AI Specialist",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 25,
+   "Name": "Noah Hall",
+   "Age": 35,
+   "Education": "Bachelor's",
+   "Skills": "Network Security;Linux;Python",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Cybersecurity Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 26,
+   "Name": "Emma Allen",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "Python;Statistics;Data Mining",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Research Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 27,
+   "Name": "Mason Young",
+   "Age": 33,
+   "Education": "Bachelor's",
+   "Skills": "Cloud Computing;DevOps;Python",
+   "Interests": "Technology;Business",
+   "Recommended_Career": "DevOps Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 28,
+   "Name": "Harper King",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Content Creation;Graphic Design;Adobe Photoshop",
+   "Interests": "Digital Media;Marketing",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 29,
+   "Name": "Lucas Wright",
+   "Age": 31,
+   "Education": "Master's",
+   "Skills": "Python;TensorFlow;Deep Learning",
+   "Interests": "Technology;Research",
+   "Recommended_Career": "Deep Learning Engineer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 30,
+   "Name": "Amelia Scott",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "SQL;Data Warehousing;R",
+   "Interests": "Business;Analytics",
+   "Recommended_Career": "Business Analyst",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 31,
+   "Name": "Oliver Green",
+   "Age": 30,
+   "Education": "Master's",
+   "Skills": "Java;Spring;Microservices",
+   "Interests": "Software Engineering;Finance",
+   "Recommended_Career": "Backend Developer",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 32,
+   "Name": "Grace Baker",
+   "Age": 24,
+   "Education": "Bachelor's",
+   "Skills": "HTML;CSS;JavaScript;UX",
+   "Interests": "Web Design;Technology",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 33,
+   "Name": "Elijah Adams",
+   "Age": 28,
+   "Education": "Master's",
+   "Skills": "Machine Learning;R;Python",
+   "Interests": "Biotech;Data Science",
+   "Recommended_Career": "Biostatistician",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 34,
+   "Name": "Lily Nelson",
+   "Age": 29,
+   "Education": "Bachelor's",
+   "Skills": "Digital Illustration;Adobe Illustrator;Creativity",
+   "Interests": "Arts;Design",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 35,
+   "Name": "Benjamin Carter",
+   "Age": 34,
+   "Education": "Master's",
+   "Skills": "Python;Big Data;Machine Learning",
+   "Interests": "Finance;Technology",
+   "Recommended_Career": "Data Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 36,
+   "Name": "Ella Mitchell",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Copywriting;SEO;Social Media",
+   "Interests": "Marketing;Content",
+   "Recommended_Career": "Content Strategist",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 37,
+   "Name": "Sebastian Perez",
+   "Age": 30,
+   "Education": "Master's",
+   "Skills": "Python;JavaScript;Data Visualization",
+   "Interests": "Analytics;Business",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 38,
+   "Name": "Victoria Roberts",
+   "Age": 32,
+   "Education": "Bachelor's",
+   "Skills": "Business Analysis;Excel;SQL",
+   "Interests": "Business;Finance",
+   "Recommended_Career": "Business Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 39,
+   "Name": "Jack Turner",
+   "Age": 28,
+   "Education": "Bachelor's",
+   "Skills": "Python;Automation;Data Analysis",
+   "Interests": "Technology;Engineering",
+   "Recommended_Career": "Automation Engineer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 40,
+   "Name": "Aria Phillips",
+   "Age": 25,
+   "Education": "Bachelor's",
+   "Skills": "Graphic Design;UX/UI;Adobe XD",
+   "Interests": "Digital Media;Design",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 41,
+   "Name": "Samuel Campbell",
+   "Age": 33,
+   "Education": "Master's",
+   "Skills": "Python;Machine Learning;AI",
+   "Interests": "Technology;Innovation",
+   "Recommended_Career": "Machine Learning Engineer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 42,
+   "Name": "Zoe Parker",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "Digital Marketing;Analytics;SEO",
+   "Interests": "Marketing;Business",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 43,
+   "Name": "Adam Evans",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "Python;Data Analysis;R",
+   "Interests": "Finance;Data Science",
+   "Recommended_Career": "Financial Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 44,
+   "Name": "Natalie Edwards",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Content Writing;Storytelling;SEO",
+   "Interests": "Media;Marketing",
+   "Recommended_Career": "Content Strategist",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 45,
+   "Name": "Aaron Collins",
+   "Age": 31,
+   "Education": "Bachelor's",
+   "Skills": "Java;Android;UI Design",
+   "Interests": "Mobile Apps;Technology",
+   "Recommended_Career": "Mobile Developer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 46,
+   "Name": "Scarlett Stewart",
+   "Age": 28,
+   "Education": "Master's",
+   "Skills": "UX Research;Prototyping;Interaction Design",
+   "Interests": "Design;User Experience",
+   "Recommended_Career": "UX Researcher",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 47,
+   "Name": "Isaiah Sanchez",
+   "Age": 30,
+   "Education": "Bachelor's",
+   "Skills": "Python;Cybersecurity;Network Security",
+   "Interests": "Technology;Security",
+   "Recommended_Career": "Cybersecurity Specialist",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 48,
+   "Name": "Nora Morris",
+   "Age": 25,
+   "Education": "Bachelor's",
+   "Skills": "SQL;Data Analysis;Excel",
+   "Interests": "Business;Analytics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 49,
+   "Name": "Julian Rogers",
+   "Age": 33,
+   "Education": "Master's",
+   "Skills": "Cloud Computing;Python;DevOps",
+   "Interests": "Technology;Business",
+   "Recommended_Career": "Cloud Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 50,
+   "Name": "Stella Reed",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Graphic Design;Illustration;Adobe Creative Suite",
+   "Interests": "Arts;Design",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 51,
+   "Name": "Owen Parker",
+   "Age": 32,
+   "Education": "Bachelor's",
+   "Skills": "Python;Data Analysis;SQL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 52,
+   "Name": "Chase Murphy",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Java;Spring;Microservices",
+   "Interests": "Software Engineering;Technology",
+   "Recommended_Career": "Backend Developer",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 53,
+   "Name": "Aiden Cooper",
+   "Age": 30,
+   "Education": "Master's",
+   "Skills": "Python;Machine Learning;TensorFlow",
+   "Interests": "AI;Innovation",
+   "Recommended_Career": "Machine Learning Engineer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 54,
+   "Name": "Zachary Reed",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 55,
+   "Name": "Madison Flores",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "Digital Marketing;SEO;Content Strategy",
+   "Interests": "Marketing;Social Media",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 56,
+   "Name": "Ethan Brooks",
+   "Age": 31,
+   "Education": "Bachelor's",
+   "Skills": "SQL;Data Warehousing;ETL",
+   "Interests": "Finance;Data Analytics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 57,
+   "Name": "Ava Jenkins",
+   "Age": 25,
+   "Education": "Bachelor's",
+   "Skills": "Graphic Design;Illustration;Adobe Illustrator",
+   "Interests": "Arts;Design",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 58,
+   "Name": "Lucas Powell",
+   "Age": 34,
+   "Education": "Master's",
+   "Skills": "Python;NLP;Deep Learning",
+   "Interests": "AI;Language",
+   "Recommended_Career": "NLP Engineer",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 59,
+   "Name": "Mia Simmons",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Research;Statistical Analysis;R",
+   "Interests": "Academia;Biotech",
+   "Recommended_Career": "Research Scientist",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 60,
+   "Name": "Benjamin Price",
+   "Age": 32,
+   "Education": "Master's",
+   "Skills": "Project Management;Agile;Communication",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Project Manager",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 61,
+   "Name": "Liam King",
+   "Age": 28,
+   "Education": "Bachelor's",
+   "Skills": "C++;Embedded Systems;IoT",
+   "Interests": "Electronics;Automation",
+   "Recommended_Career": "Embedded Systems Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 62,
+   "Name": "Sophia Griffin",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "Python;Data Visualization;R",
+   "Interests": "Data Analysis;Statistics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 63,
+   "Name": "Noah Wood",
+   "Age": 30,
+   "Education": "Bachelor's",
+   "Skills": "Java;Algorithms;Data Structures",
+   "Interests": "Software Development;Coding",
+   "Recommended_Career": "Software Developer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 64,
+   "Name": "Ella Ramirez",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "UX Research;Prototyping;Interaction Design",
+   "Interests": "Design;User Experience",
+   "Recommended_Career": "UX Researcher",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 65,
+   "Name": "William Simmons",
+   "Age": 33,
+   "Education": "Master's",
+   "Skills": "Cloud Computing;DevOps;Python",
+   "Interests": "Technology;Business",
+   "Recommended_Career": "DevOps Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 66,
+   "Name": "Olivia Ward",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Digital Marketing;Analytics;SEO",
+   "Interests": "Marketing;Business",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 67,
+   "Name": "Jacob Stewart",
+   "Age": 31,
+   "Education": "Bachelor's",
+   "Skills": "C#;.NET;Software Design",
+   "Interests": "Technology;Gaming",
+   "Recommended_Career": "Software Developer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 68,
+   "Name": "Emily Torres",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "Financial Analysis;Excel;Econometrics",
+   "Interests": "Finance;Data Analysis",
+   "Recommended_Career": "Financial Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 69,
+   "Name": "Michael Watson",
+   "Age": 35,
+   "Education": "PhD",
+   "Skills": "Research;Statistical Analysis;Python",
+   "Interests": "Academia;Biotech",
+   "Recommended_Career": "Research Scientist",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 70,
+   "Name": "Grace Bell",
+   "Age": 24,
+   "Education": "Bachelor's",
+   "Skills": "HTML;CSS;JavaScript;UX",
+   "Interests": "Web Design;Technology",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 71,
+   "Name": "Samuel Bailey",
+   "Age": 28,
+   "Education": "Master's",
+   "Skills": "Machine Learning;R;Python",
+   "Interests": "Biotech;Data Science",
+   "Recommended_Career": "Biostatistician",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 72,
+   "Name": "Zoe Rivera",
+   "Age": 29,
+   "Education": "Bachelor's",
+   "Skills": "Content Writing;Storytelling;SEO",
+   "Interests": "Media;Marketing",
+   "Recommended_Career": "Content Strategist",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 73,
+   "Name": "Henry Cooper",
+   "Age": 34,
+   "Education": "Master's",
+   "Skills": "Python;Big Data;Machine Learning",
+   "Interests": "Finance;Technology",
+   "Recommended_Career": "Data Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 74,
+   "Name": "Chloe Richardson",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Digital Illustration;Adobe Illustrator;Creativity",
+   "Interests": "Arts;Design",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 75,
+   "Name": "Alexander Cox",
+   "Age": 30,
+   "Education": "Bachelor's",
+   "Skills": "Python;Data Mining;Statistics",
+   "Interests": "Data Science;Finance",
+   "Recommended_Career": "Data Scientist",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 76,
+   "Name": "Victoria Ward",
+   "Age": 26,
+   "Education": "Master's",
+   "Skills": "Business Analysis;Excel;SQL",
+   "Interests": "Business;Finance",
+   "Recommended_Career": "Business Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 77,
+   "Name": "Daniel Foster",
+   "Age": 28,
+   "Education": "Bachelor's",
+   "Skills": "Python;Automation;Data Analysis",
+   "Interests": "Technology;Engineering",
+   "Recommended_Career": "Automation Engineer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 78,
+   "Name": "Natalie Henderson",
+   "Age": 25,
+   "Education": "Bachelor's",
+   "Skills": "Copywriting;SEO;Social Media",
+   "Interests": "Marketing;Content",
+   "Recommended_Career": "Content Strategist",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 79,
+   "Name": "Matthew Bryant",
+   "Age": 31,
+   "Education": "Bachelor's",
+   "Skills": "Java;Android;UI Design",
+   "Interests": "Mobile Apps;Technology",
+   "Recommended_Career": "Mobile Developer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 80,
+   "Name": "Lily Alexander",
+   "Age": 28,
+   "Education": "Master's",
+   "Skills": "Python;Machine Learning;AI",
+   "Interests": "Technology;Innovation",
+   "Recommended_Career": "Machine Learning Engineer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 81,
+   "Name": "Logan Carter",
+   "Age": 30,
+   "Education": "Bachelor's",
+   "Skills": "SQL;Data Analysis;Excel",
+   "Interests": "Business;Analytics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 82,
+   "Name": "Amelia Morris",
+   "Age": 27,
+   "Education": "Master's",
+   "Skills": "Marketing Strategy;Digital Marketing;CRM",
+   "Interests": "Marketing;Business",
+   "Recommended_Career": "Marketing Manager",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 83,
+   "Name": "Jackson Perez",
+   "Age": 29,
+   "Education": "Bachelor's",
+   "Skills": "JavaScript;React;Node.js",
+   "Interests": "Web Development;Technology",
+   "Recommended_Career": "Full Stack Developer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 84,
+   "Name": "Avery Hughes",
+   "Age": 32,
+   "Education": "Master's",
+   "Skills": "Data Science;Machine Learning;Python",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "AI Specialist",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 85,
+   "Name": "Sebastian Flores",
+   "Age": 35,
+   "Education": "Bachelor's",
+   "Skills": "Network Security;Linux;Python",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Cybersecurity Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 86,
+   "Name": "Harper Hughes",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "Python;Statistics;Data Mining",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Research Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 87,
+   "Name": "Owen Long",
+   "Age": 33,
+   "Education": "Bachelor's",
+   "Skills": "Cloud Computing;Python;DevOps",
+   "Interests": "Technology;Business",
+   "Recommended_Career": "Cloud Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 88,
+   "Name": "Scarlett Foster",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Graphic Design;Illustration;Adobe Creative Suite",
+   "Interests": "Arts;Design",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 89,
+   "Name": "Gabriel Price",
+   "Age": 30,
+   "Education": "Master's",
+   "Skills": "Python;Data Analysis;SQL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 90,
+   "Name": "Chase Bennett",
+   "Age": 28,
+   "Education": "Bachelor's",
+   "Skills": "Java;System Design;Cloud Computing",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Software Engineer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 91,
+   "Name": "Samantha Ross",
+   "Age": 32,
+   "Education": "Master's",
+   "Skills": "Python;Deep Learning;Statistics",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "AI Researcher",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 92,
+   "Name": "Nathan Rogers",
+   "Age": 30,
+   "Education": "Bachelor's",
+   "Skills": "Project Management;Communication;Agile",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Project Manager",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 93,
+   "Name": "Aiden Reed",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "C++;Embedded Systems;IoT",
+   "Interests": "Electronics;Automation",
+   "Recommended_Career": "Embedded Systems Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 94,
+   "Name": "Sofia Brooks",
+   "Age": 28,
+   "Education": "Master's",
+   "Skills": "SQL;Data Warehousing;ETL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 95,
+   "Name": "Elijah Coleman",
+   "Age": 35,
+   "Education": "Bachelor's",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 96,
+   "Name": "Ava Henderson",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "Digital Marketing;SEO;Content Creation",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 97,
+   "Name": "Caleb Perry",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "Python;Natural Language Processing;Machine Learning",
+   "Interests": "Linguistics;Technology",
+   "Recommended_Career": "NLP Engineer",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 98,
+   "Name": "Zoey Patterson",
+   "Age": 31,
+   "Education": "Master's",
+   "Skills": "Financial Analysis;Excel;Econometrics",
+   "Interests": "Finance;Data Analysis",
+   "Recommended_Career": "Financial Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 99,
+   "Name": "Isaac Bailey",
+   "Age": 40,
+   "Education": "PhD",
+   "Skills": "Research;Statistical Analysis;Python",
+   "Interests": "Academia;Biotech",
+   "Recommended_Career": "Research Scientist",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 100,
+   "Name": "Evelyn Coleman",
+   "Age": 22,
+   "Education": "Bachelor's",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 101,
+   "Name": "Megan Fisher",
+   "Age": 23,
+   "Education": "Master's",
+   "Skills": "Python;Data Analysis;Machine Learning",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Data Scientist",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 102,
+   "Name": "Evan Ramirez",
+   "Age": 24,
+   "Education": "PhD",
+   "Skills": "Java;System Design;Cloud Computing",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Software Engineer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 103,
+   "Name": "Landon Carter",
+   "Age": 25,
+   "Education": "Bachelor's",
+   "Skills": "Graphic Design;UI/UX;Adobe Creative Suite",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 104,
+   "Name": "Hannah Rivera",
+   "Age": 26,
+   "Education": "Master's",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "AI Researcher",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 105,
+   "Name": "Connor Brooks",
+   "Age": 27,
+   "Education": "PhD",
+   "Skills": "C++;Embedded Systems;IoT",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Project Manager",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 106,
+   "Name": "Aaliyah Perry",
+   "Age": 28,
+   "Education": "Bachelor's",
+   "Skills": "SQL;Data Warehousing;ETL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Embedded Systems Engineer",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 107,
+   "Name": "Brandon Hayes",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "JavaScript;React;Node.js",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 108,
+   "Name": "Sydney Coleman",
+   "Age": 30,
+   "Education": "PhD",
+   "Skills": "Digital Marketing;SEO;Content Creation",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 109,
+   "Name": "Dylan Bennett",
+   "Age": 31,
+   "Education": "Bachelor's",
+   "Skills": "Project Management;Agile;Communication",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "NLP Engineer",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 110,
+   "Name": "Avery Sanders",
+   "Age": 32,
+   "Education": "Master's",
+   "Skills": "Python;Deep Learning;Statistics",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Financial Analyst",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 111,
+   "Name": "Chase Morgan",
+   "Age": 33,
+   "Education": "PhD",
+   "Skills": "Financial Analysis;Excel;Econometrics",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Research Scientist",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 112,
+   "Name": "Sienna Price",
+   "Age": 34,
+   "Education": "Bachelor's",
+   "Skills": "Research;Statistical Analysis;Python",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 113,
+   "Name": "Hunter Patterson",
+   "Age": 35,
+   "Education": "Master's",
+   "Skills": "Cloud Computing;DevOps;Python",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "Software Developer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 114,
+   "Name": "Riley Murphy",
+   "Age": 36,
+   "Education": "PhD",
+   "Skills": "Java;Algorithms;Data Structures",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 115,
+   "Name": "Madeline Jenkins",
+   "Age": 37,
+   "Education": "Bachelor's",
+   "Skills": "UX Research;Prototyping;Interaction Design",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Machine Learning Engineer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 116,
+   "Name": "Adrian Collins",
+   "Age": 38,
+   "Education": "Master's",
+   "Skills": "Copywriting;SEO;Social Media",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 117,
+   "Name": "Sophie Gray",
+   "Age": 39,
+   "Education": "PhD",
+   "Skills": "Network Security;Linux;Python",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Data Scientist",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 118,
+   "Name": "Jordan Long",
+   "Age": 40,
+   "Education": "Bachelor's",
+   "Skills": "C#;.NET;Software Design",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Software Developer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 119,
+   "Name": "Brianna Foster",
+   "Age": 41,
+   "Education": "Master's",
+   "Skills": "Data Visualization;Python;R",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Project Manager",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 120,
+   "Name": "Zane Powell",
+   "Age": 22,
+   "Education": "PhD",
+   "Skills": "Machine Learning;Big Data;Python",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 121,
+   "Name": "Molly Jenkins",
+   "Age": 23,
+   "Education": "Bachelor's",
+   "Skills": "Python;Data Analysis;Machine Learning",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 122,
+   "Name": "Austin Rivera",
+   "Age": 24,
+   "Education": "Master's",
+   "Skills": "Java;System Design;Cloud Computing",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Marketing Manager",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 123,
+   "Name": "Paige Rogers",
+   "Age": 25,
+   "Education": "PhD",
+   "Skills": "Graphic Design;UI/UX;Adobe Creative Suite",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "Full Stack Developer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 124,
+   "Name": "Cole Barnes",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "AI Specialist",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 125,
+   "Name": "Leah Butler",
+   "Age": 27,
+   "Education": "Master's",
+   "Skills": "C++;Embedded Systems;IoT",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Cybersecurity Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 126,
+   "Name": "Carter Brooks",
+   "Age": 28,
+   "Education": "PhD",
+   "Skills": "SQL;Data Warehousing;ETL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Research Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 127,
+   "Name": "Eleanor Morris",
+   "Age": 29,
+   "Education": "Bachelor's",
+   "Skills": "JavaScript;React;Node.js",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "DevOps Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 128,
+   "Name": "Miles Rogers",
+   "Age": 30,
+   "Education": "Master's",
+   "Skills": "Digital Marketing;SEO;Content Creation",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 129,
+   "Name": "Lucy Howard",
+   "Age": 31,
+   "Education": "PhD",
+   "Skills": "Project Management;Agile;Communication",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Deep Learning Engineer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 130,
+   "Name": "Hunter Price",
+   "Age": 32,
+   "Education": "Bachelor's",
+   "Skills": "Python;Deep Learning;Statistics",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Business Analyst",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 131,
+   "Name": "Naomi Wright",
+   "Age": 23,
+   "Education": "Master's",
+   "Skills": "Financial Analysis;Excel;Econometrics",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Backend Developer",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 132,
+   "Name": "Brandon Wood",
+   "Age": 34,
+   "Education": "PhD",
+   "Skills": "Research;Statistical Analysis;Python",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 133,
+   "Name": "Autumn Baker",
+   "Age": 35,
+   "Education": "Bachelor's",
+   "Skills": "Cloud Computing;DevOps;Python",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "Biostatistician",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 134,
+   "Name": "Grayson James",
+   "Age": 36,
+   "Education": "Master's",
+   "Skills": "Java;Algorithms;Data Structures",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 135,
+   "Name": "Mackenzie Perry",
+   "Age": 37,
+   "Education": "PhD",
+   "Skills": "UX Research;Prototyping;Interaction Design",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Data Engineer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 136,
+   "Name": "Jason Simmons",
+   "Age": 38,
+   "Education": "Bachelor's",
+   "Skills": "Copywriting;SEO;Social Media",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Content Strategist",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 137,
+   "Name": "Elena Coleman",
+   "Age": 39,
+   "Education": "Master's",
+   "Skills": "Network Security;Linux;Python",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 138,
+   "Name": "Tyler Carter",
+   "Age": 40,
+   "Education": "PhD",
+   "Skills": "C#;.NET;Software Design",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Business Analyst",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 139,
+   "Name": "Ruby Mitchell",
+   "Age": 41,
+   "Education": "Bachelor's",
+   "Skills": "Data Visualization;Python;R",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Automation Engineer",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 140,
+   "Name": "Declan Adams",
+   "Age": 22,
+   "Education": "Master's",
+   "Skills": "Machine Learning;Big Data;Python",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 141,
+   "Name": "Lydia Edwards",
+   "Age": 23,
+   "Education": "PhD",
+   "Skills": "Python;Data Analysis;Machine Learning",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Machine Learning Engineer",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 142,
+   "Name": "Eric Hughes",
+   "Age": 24,
+   "Education": "Bachelor's",
+   "Skills": "Java;System Design;Cloud Computing",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 143,
+   "Name": "Melanie Nelson",
+   "Age": 25,
+   "Education": "Master's",
+   "Skills": "Graphic Design;UI/UX;Adobe Creative Suite",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "Financial Analyst",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 144,
+   "Name": "Julian Wright",
+   "Age": 26,
+   "Education": "PhD",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "Content Strategist",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 145,
+   "Name": "Arianna Brooks",
+   "Age": 27,
+   "Education": "Bachelor's",
+   "Skills": "C++;Embedded Systems;IoT",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Mobile Developer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 146,
+   "Name": "Cooper Bell",
+   "Age": 28,
+   "Education": "Master's",
+   "Skills": "SQL;Data Warehousing;ETL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "UX Researcher",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 147,
+   "Name": "Faith Parker",
+   "Age": 29,
+   "Education": "PhD",
+   "Skills": "JavaScript;React;Node.js",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Cybersecurity Specialist",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 148,
+   "Name": "Maximillian Reed",
+   "Age": 30,
+   "Education": "Bachelor's",
+   "Skills": "Digital Marketing;SEO;Content Creation",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 149,
+   "Name": "Sadie Turner",
+   "Age": 31,
+   "Education": "Master's",
+   "Skills": "Project Management;Agile;Communication",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Cloud Engineer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 150,
+   "Name": "Jaxon Carter",
+   "Age": 32,
+   "Education": "PhD",
+   "Skills": "Python;Deep Learning;Statistics",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 151,
+   "Name": "Isabel Rivera",
+   "Age": 23,
+   "Education": "Bachelor's",
+   "Skills": "Financial Analysis;Excel;Econometrics",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Data Scientist",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 152,
+   "Name": "Carson Flores",
+   "Age": 24,
+   "Education": "Master's",
+   "Skills": "Research;Statistical Analysis;Python",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Software Engineer",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 153,
+   "Name": "Katherine Collins",
+   "Age": 25,
+   "Education": "PhD",
+   "Skills": "Cloud Computing;DevOps;Python",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 154,
+   "Name": "Leo Morgan",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "Java;Algorithms;Data Structures",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "AI Researcher",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 155,
+   "Name": "Ariella Perry",
+   "Age": 37,
+   "Education": "Master's",
+   "Skills": "UX Research;Prototyping;Interaction Design",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Project Manager",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 156,
+   "Name": "Ryder Murphy",
+   "Age": 38,
+   "Education": "PhD",
+   "Skills": "Copywriting;SEO;Social Media",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Embedded Systems Engineer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 157,
+   "Name": "Elise Bennett",
+   "Age": 39,
+   "Education": "Bachelor's",
+   "Skills": "Network Security;Linux;Python",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 158,
+   "Name": "Cameron Reed",
+   "Age": 40,
+   "Education": "Master's",
+   "Skills": "C#;.NET;Software Design",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 159,
+   "Name": "Jasmine Edwards",
+   "Age": 41,
+   "Education": "PhD",
+   "Skills": "Data Visualization;Python;R",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "NLP Engineer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 160,
+   "Name": "Parker Jenkins",
+   "Age": 22,
+   "Education": "Bachelor's",
+   "Skills": "Machine Learning;Big Data;Python",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Financial Analyst",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 161,
+   "Name": "Nicole Hughes",
+   "Age": 23,
+   "Education": "Master's",
+   "Skills": "Python;Data Analysis;Machine Learning",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Research Scientist",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 162,
+   "Name": "Brady Price",
+   "Age": 24,
+   "Education": "PhD",
+   "Skills": "Java;System Design;Cloud Computing",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 163,
+   "Name": "Clara Ross",
+   "Age": 25,
+   "Education": "Bachelor's",
+   "Skills": "Graphic Design;UI/UX;Adobe Creative Suite",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "Software Developer",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 164,
+   "Name": "Silas Murphy",
+   "Age": 26,
+   "Education": "Master's",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 165,
+   "Name": "Paisley Rogers",
+   "Age": 27,
+   "Education": "PhD",
+   "Skills": "C++;Embedded Systems;IoT",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Machine Learning Engineer",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 166,
+   "Name": "Miles Foster",
+   "Age": 28,
+   "Education": "Bachelor's",
+   "Skills": "SQL;Data Warehousing;ETL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 167,
+   "Name": "Jade Wood",
+   "Age": 29,
+   "Education": "Master's",
+   "Skills": "JavaScript;React;Node.js",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Data Scientist",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 168,
+   "Name": "Weston Perry",
+   "Age": 30,
+   "Education": "PhD",
+   "Skills": "Digital Marketing;SEO;Content Creation",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Software Developer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 169,
+   "Name": "Aubrey Jenkins",
+   "Age": 31,
+   "Education": "Bachelor's",
+   "Skills": "Project Management;Agile;Communication",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Project Manager",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 170,
+   "Name": "Harrison Collins",
+   "Age": 32,
+   "Education": "Master's",
+   "Skills": "Python;Deep Learning;Statistics",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 171,
+   "Name": "Luna Gray",
+   "Age": 33,
+   "Education": "PhD",
+   "Skills": "Financial Analysis;Excel;Econometrics",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 172,
+   "Name": "Gavin Long",
+   "Age": 34,
+   "Education": "Bachelor's",
+   "Skills": "Research;Statistical Analysis;Python",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Marketing Manager",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 173,
+   "Name": "Penelope Foster",
+   "Age": 35,
+   "Education": "Master's",
+   "Skills": "Cloud Computing;DevOps;Python",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "Full Stack Developer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 174,
+   "Name": "Austin Powell",
+   "Age": 36,
+   "Education": "PhD",
+   "Skills": "Java;Algorithms;Data Structures",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "AI Specialist",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 175,
+   "Name": "Vivian Butler",
+   "Age": 37,
+   "Education": "Bachelor's",
+   "Skills": "UX Research;Prototyping;Interaction Design",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Cybersecurity Analyst",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 176,
+   "Name": "Xavier Barnes",
+   "Age": 38,
+   "Education": "Master's",
+   "Skills": "Copywriting;SEO;Social Media",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Research Analyst",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 177,
+   "Name": "Stella James",
+   "Age": 39,
+   "Education": "PhD",
+   "Skills": "Network Security;Linux;Python",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "DevOps Engineer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 178,
+   "Name": "Caden Morgan",
+   "Age": 40,
+   "Education": "Bachelor's",
+   "Skills": "C#;.NET;Software Design",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 179,
+   "Name": "Maya Ross",
+   "Age": 41,
+   "Education": "Master's",
+   "Skills": "Data Visualization;Python;R",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Deep Learning Engineer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 180,
+   "Name": "Jace Reed",
+   "Age": 22,
+   "Education": "PhD",
+   "Skills": "Machine Learning;Big Data;Python",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Business Analyst",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 181,
+   "Name": "Kendall Rivera",
+   "Age": 23,
+   "Education": "Bachelor's",
+   "Skills": "Python;Data Analysis;Machine Learning",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Backend Developer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 182,
+   "Name": "Rylan Perry",
+   "Age": 24,
+   "Education": "Master's",
+   "Skills": "Java;System Design;Cloud Computing",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Front-end Developer",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 183,
+   "Name": "Adalyn Jenkins",
+   "Age": 25,
+   "Education": "PhD",
+   "Skills": "Graphic Design;UI/UX;Adobe Creative Suite",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "Biostatistician",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 184,
+   "Name": "Zion Collins",
+   "Age": 26,
+   "Education": "Bachelor's",
+   "Skills": "HTML;CSS;JavaScript",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 185,
+   "Name": "Emery Gray",
+   "Age": 27,
+   "Education": "Master's",
+   "Skills": "C++;Embedded Systems;IoT",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Data Engineer",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 186,
+   "Name": "Nolan Long",
+   "Age": 28,
+   "Education": "PhD",
+   "Skills": "SQL;Data Warehousing;ETL",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "Content Strategist",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 187,
+   "Name": "Ivy Foster",
+   "Age": 29,
+   "Education": "Bachelor's",
+   "Skills": "JavaScript;React;Node.js",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 188,
+   "Name": "Tristan Powell",
+   "Age": 30,
+   "Education": "Master's",
+   "Skills": "Digital Marketing;SEO;Content Creation",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Business Analyst",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 189,
+   "Name": "Olivia Butler",
+   "Age": 31,
+   "Education": "PhD",
+   "Skills": "Project Management;Agile;Communication",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Automation Engineer",
+   "Recommendation_Score": 0.87
+ },
+ {
+   "CandidateID": 190,
+   "Name": "Damian Barnes",
+   "Age": 32,
+   "Education": "Bachelor's",
+   "Skills": "Python;Deep Learning;Statistics",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "UX Designer",
+   "Recommendation_Score": 0.88
+ },
+ {
+   "CandidateID": 191,
+   "Name": "Sienna James",
+   "Age": 33,
+   "Education": "Master's",
+   "Skills": "Financial Analysis;Excel;Econometrics",
+   "Interests": "Technology;Data Science",
+   "Recommended_Career": "Machine Learning Engineer",
+   "Recommendation_Score": 0.89
+ },
+ {
+   "CandidateID": 192,
+   "Name": "Jasper Morgan",
+   "Age": 34,
+   "Education": "PhD",
+   "Skills": "Research;Statistical Analysis;Python",
+   "Interests": "Software Development;AI",
+   "Recommended_Career": "Digital Marketer",
+   "Recommendation_Score": 0.9
+ },
+ {
+   "CandidateID": 193,
+   "Name": "Eleanor Ross",
+   "Age": 35,
+   "Education": "Bachelor's",
+   "Skills": "Cloud Computing;DevOps;Python",
+   "Interests": "Arts;Digital Media",
+   "Recommended_Career": "Financial Analyst",
+   "Recommendation_Score": 0.91
+ },
+ {
+   "CandidateID": 194,
+   "Name": "Ezra Reed",
+   "Age": 36,
+   "Education": "Master's",
+   "Skills": "Java;Algorithms;Data Structures",
+   "Interests": "Healthcare;AI",
+   "Recommended_Career": "Content Strategist",
+   "Recommendation_Score": 0.92
+ },
+ {
+   "CandidateID": 195,
+   "Name": "Lola Rivera",
+   "Age": 37,
+   "Education": "PhD",
+   "Skills": "UX Research;Prototyping;Interaction Design",
+   "Interests": "Business;Management",
+   "Recommended_Career": "Mobile Developer",
+   "Recommendation_Score": 0.93
+ },
+ {
+   "CandidateID": 196,
+   "Name": "Easton Perry",
+   "Age": 38,
+   "Education": "Bachelor's",
+   "Skills": "Copywriting;SEO;Social Media",
+   "Interests": "Finance;Analytics",
+   "Recommended_Career": "UX Researcher",
+   "Recommendation_Score": 0.94
+ },
+ {
+   "CandidateID": 197,
+   "Name": "Aurora Jenkins",
+   "Age": 39,
+   "Education": "Master's",
+   "Skills": "Network Security;Linux;Python",
+   "Interests": "Marketing;Communications",
+   "Recommended_Career": "Cybersecurity Specialist",
+   "Recommendation_Score": 0.95
+ },
+ {
+   "CandidateID": 198,
+   "Name": "Camden Collins",
+   "Age": 40,
+   "Education": "PhD",
+   "Skills": "C#;.NET;Software Design",
+   "Interests": "Cybersecurity;Technology",
+   "Recommended_Career": "Data Analyst",
+   "Recommendation_Score": 0.85
+ },
+ {
+   "CandidateID": 199,
+   "Name": "Hazel Gray",
+   "Age": 41,
+   "Education": "Bachelor's",
+   "Skills": "Data Visualization;Python;R",
+   "Interests": "Academia;Research",
+   "Recommended_Career": "Cloud Engineer",
+   "Recommendation_Score": 0.86
+ },
+ {
+   "CandidateID": 200,
+   "Name": "Micah Long",
+   "Age": 22,
+   "Education": "Master's",
+   "Skills": "Machine Learning;Big Data;Python",
+   "Interests": "Web Development;Design",
+   "Recommended_Career": "Graphic Designer",
+   "Recommendation_Score": 0.87
+ }
+]
